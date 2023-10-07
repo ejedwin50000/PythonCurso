@@ -13,6 +13,8 @@
 
 ## EXTENSIONS
 
-- andronemada (Eliver Lara): Para ver el codigo de colores
-- code blue (sujan): ver color de codigo
-- material Icon Theme (Philipp Kiel): Ver el tipo de incono de la extencion de programa que estoy usando Python HTLM CSS JS ect.
+> - andronemada (Eliver Lara): Para ver el codigo de colores
+
+> - code blue (sujan): ver color de codigo
+
+> - material Icon Theme (Philipp Kiel): Ver el tipo de incono de la extencion de programa que estoy usando Python HTLM CSS JS ect.

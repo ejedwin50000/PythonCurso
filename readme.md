@@ -21,19 +21,22 @@
 
 ### COMANDO GIT
 
-> 1. mkdir "Helo Git" # Crear una carpeta
-> 1. touch hellogit.py # crear un archivo
-> 1. code . # Para abril VSCODE
-> 1. git init # Para iniciar el repositorio
-> 1. git branch -m main # Para cambiar nombre de master a main
-> 1. git add hellogit.py # Para alista un commit
-> 1. git status # Para ver el estado
-> 1. git commit -m "Se actualiza el texto del print" # Para hacer un commit
-> 1. git checkout hellogit.py # Para desahacer un cambio de un archivo
-> 1. git reset # Para resetear todos los cambios
-> 1. git log --graph --pretty=oneline # Ver toda la rama con los cambios de los commit
-> 1. git log --graph --decorate --all --oneline # Ver toda la ramas que hay y los cambios
-> 1. $ git config --global alias.tree "log --graph --decorate --all --oneline" # Colocar un atajo o alias a una linea de comandos.
+> 1. **mkdir "Helo Git" #** Crear una carpeta
+> 1. **touch hellogit.py #** crear un archivo
+> 1. **code . #** Para abril VSCODE
+> 1. **git init #** Para iniciar el repositorio
+> 1. **git branch -m main #** Para cambiar nombre de master a main
+> 1. **git add hellogit.py #** Para alista un commit
+> 1. **git status #** Para ver el estado
+> 1. **git commit -m "Se actualiza el texto del print" #** Para hacer un commit
+> 1. **git checkout hellogit.py #** Para desahacer un cambio de un archivo
+> 1. **git reset #** Para resetear todos los cambios
+> 1. **git log --graph --pretty=oneline #** Ver toda la rama con los cambios de los commit
+> 1. **git log --graph --decorate --all --oneline #** Ver toda la ramas que hay y los cambios
+> 1. **git config --global alias.tree "log --graph --decorate --all --oneline" #** Colocar un atajo o alias a una linea de comandos.
+> 1. **git diff #** Ver que cambios hay pendientes antes de hacer el commit
+> 1. **touch .gitignore #** para crear el fichero que ignora los archivo que no se le hace commit
+> 1. **git checkout NUMERO_FICEHRO** Desplazamientos moverse a otra fotografica vieja o nueva o borrada
 >    12 - Fichero .gitignore
 
 **Bold**

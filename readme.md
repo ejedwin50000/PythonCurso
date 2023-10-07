@@ -37,7 +37,7 @@
 > 1. **git diff #** Ver que cambios hay pendientes antes de hacer el commit
 > 1. **touch .gitignore #** para crear el fichero que ignora los archivo que no se le hace commit
 > 1. **git checkout NUMERO_FICEHRO** Desplazamientos moverse a otra fotografica vieja o nueva o borrada
->    12 - Fichero .gitignore
+> 1. _Fichero .gitignore_
 
 **Bold**
 _Cursiva_

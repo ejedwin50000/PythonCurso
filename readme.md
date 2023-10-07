@@ -18,3 +18,27 @@
 > - code blue (sujan): ver color de codigo
 
 > - material Icon Theme (Philipp Kiel): Ver el tipo de incono de la extencion de programa que estoy usando Python HTLM CSS JS ect.
+
+### TITULOS TERCER NIVEL
+
+**Bold**
+_Cursiva_
+~~Tachado~~
+
+## Para ordenar tu lista, antecede cada línea con un número
+
+1. James Madison
+1. James Monroe
+1. John Quincy Adams
+
+## Listas anidadas
+
+1. First list item
+   - First nested list item
+     - Second nested list item
+
+## Listas de tareas
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
